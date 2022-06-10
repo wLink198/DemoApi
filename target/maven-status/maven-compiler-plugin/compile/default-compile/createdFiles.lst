@@ -1,0 +1,4 @@
+com/jmango/jamapi/controller/HealthCheck.class
+com/jmango/jamapi/JamApiApplication.class
+com/jmango/jamapi/facade/AppService.class
+com/jmango/jamapi/controller/JamApi.class
